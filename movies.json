@@ -1,0 +1,139 @@
+{
+  "movies": [
+    {
+      "title": "The Shawshank",
+      "year": 1994,
+      "genre": "Drama",
+      "rating": 9.3,
+      "description": "Dos hombres forman una amistad durante su estancia en prisión.",
+      "poster": "https://img.omdbapi.com/?apikey=553ede58&i=tt0111161",
+      "id": "1"
+    },
+    {
+      "title": "Inception",
+      "year": 2010,
+      "genre": "Ciencia ficción",
+      "rating": 8.8,
+      "description": "Un especialista en sueños intenta realizar una misión imposible.",
+      "poster": "https://img.omdbapi.com/?apikey=553ede58&i=tt1375666",
+      "id": "2"
+    },
+    {
+      "title": "Interstellar",
+      "year": 2014,
+      "genre": "Ciencia ficción",
+      "rating": 8.7,
+      "description": "Un grupo de astronautas busca un nuevo hogar para la humanidad",
+      "poster": "https://img.omdbapi.com/?apikey=553ede58&i=tt0816692",
+      "id": "3"
+    },
+    {
+      "id": "4",
+      "title": "The Dark Knight",
+      "year": 2008,
+      "genre": "Acción",
+      "rating": 9,
+      "description": "Batman se enfrenta a uno de sus enemigos más peligrosos.",
+      "poster": "https://img.omdbapi.com/?apikey=553ede58&i=tt0468569"
+    },
+    {
+      "id": "5",
+      "title": "The Matrix",
+      "year": 1999,
+      "genre": "Ciencia ficción",
+      "rating": 8.7,
+      "description": "Un programador descubre que la realidad no es lo que parece.",
+      "poster": "https://img.omdbapi.com/?apikey=553ede58&i=tt0133093"
+    },
+    {
+      "poster": "https://media.vogue.es/photos/5ff3221f2361f90ef2d5dbb5/1:1/w_960,c_limit/MCDBADR_EC061.jpg",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque at nulla ultrices, venenatis diam nec, cursus ligula. Aliquam a vulputate velit, at viverra nulla. Suspendisse potenti. In lacus diam, molestie id facilisis cursus, molestie vitae ante. Vestibulum lacinia lobortis orci. Duis id risus mi. Mauris eu luctus nisi, finibus varius quam. Aenean luctus tellus sit amet suscipit posuere. Suspendisse potenti. Donec massa sapien, ultricies ullamcorper dignissim in, maximus nec mi. Suspendisse sit amet massa at mi euismod semper. Pellentesque aliquet lacus vitae leo interdum aliquet. Aenean est tortor, luctus in lobortis vel, ornare eu neque.\n\nUt ac bibendum velit. Mauris sollicitudin dolor eros, et vulputate nisl varius eget. Ut viverra risus venenatis nulla fringilla fringilla. Pellentesque aliquet ultricies enim, non malesuada tortor fermentum eu. Sed et scelerisque lorem. Quisque sed leo cursus sem molestie convallis a at ipsum. Vivamus porttitor est nunc, ac cursus quam fringilla in. Cras nunc massa, feugiat in varius eget, ullamcorper a tortor. Phasellus accumsan arcu eu nibh maximus scelerisque. Suspendisse vitae ipsum elit. Vivamus lacinia nibh nec nisl scelerisque rhoncus. Quisque sed vehicula dui. Nullam vestibulum, magna vel vehicula lobortis, erat tortor ultricies felis, vitae consectetur mauris eros vitae lectus. Praesent eget ante vitae erat scelerisque facilisis quis eget nisi. Praesent vulputate semper nibh, a iaculis ex egestas eget.",
+      "rating": 10,
+      "genre": "Acción",
+      "year": 1996,
+      "title": "Quia voluptas eligen",
+      "id": "rDJ8NqwxEck"
+    },
+    {
+      "title": "El campitan Ameria 2",
+      "year": 2015,
+      "genre": "Acción",
+      "rating": 9,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque at nulla ultrices, venenatis diam nec, cursus ligula. Aliquam a vulputate velit, at viverra nulla. Suspendisse potenti. In lacus diam, molestie id facilisis cursus, molestie vitae ante. Vestibulum lacinia lobortis orci. Duis id risus mi. Mauris eu luctus nisi, finibus varius quam. Aenean luctus tellus sit amet suscipit posuere. Suspendisse potenti. Donec massa sapien, ultricies ullamcorper dignissim in, maximus nec mi. Suspendisse sit amet massa at mi euismod semper. Pellentesque aliquet lacus vitae leo interdum aliquet. Aenean est tortor, luctus in lobortis vel, ornare eu neque.\n\nUt ac bibendum velit. Mauris sollicitudin dolor eros, et vulputate nisl varius eget. Ut viverra risus venenatis nulla fringilla fringilla. Pellentesque aliquet ultricies enim, non malesuada tortor fermentum eu. Sed et scelerisque lorem. Quisque sed leo cursus sem molestie convallis a at ipsum. Vivamus porttitor est nunc, ac cursus quam fringilla in. Cras nunc massa, feugiat in varius eget, ullamcorper a tortor. Phasellus accumsan arcu eu nibh maximus scelerisque. Suspendisse vitae ipsum elit. Vivamus lacinia nibh nec nisl scelerisque rhoncus. Quisque sed vehicula dui. Nullam vestibulum, magna vel vehicula lobortis, erat tortor ultricies felis, vitae consectetur mauris eros vitae lectus. Praesent eget ante vitae erat scelerisque facilisis quis eget nisi. Praesent vulputate semper nibh, a iaculis ex egestas eget.",
+      "poster": "https://static.posters.cz/image/1300/posters/captain-america-under-fire-i127942.jpg",
+      "id": "-UvstvPRLWo"
+    },
+    {
+      "title": "Todos poderosos",
+      "year": 2009,
+      "genre": "Acción",
+      "rating": 9,
+      "description": "Autem veniam ut occ",
+      "poster": "",
+      "id": "nTaiHn9t8xE"
+    },
+    {
+      "title": "El santo ",
+      "year": 2014,
+      "genre": "Aventura",
+      "rating": 10,
+      "description": "la best movie",
+      "poster": "",
+      "id": "C67sHrfPBTM"
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Acción"
+    },
+    {
+      "id": "2",
+      "name": "Aventura"
+    },
+    {
+      "id": "3",
+      "name": "Animación"
+    },
+    {
+      "id": "4",
+      "name": "Comedia"
+    },
+    {
+      "id": "5",
+      "name": "Ciencia ficción"
+    },
+    {
+      "id": "6",
+      "name": "Drama"
+    },
+    {
+      "id": "7",
+      "name": "Documental"
+    },
+    {
+      "id": "8",
+      "name": "Fantasía"
+    },
+    {
+      "id": "9",
+      "name": "Terror"
+    },
+    {
+      "id": "10",
+      "name": "Misterio"
+    },
+    {
+      "id": "11",
+      "name": "Romance"
+    },
+    {
+      "id": "12",
+      "name": "Suspense"
+    },
+    {
+      "id": "13",
+      "name": "Western"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+/* Borde rojo cuando existe un error */
+:global(.form-group) input.inputError,
+:global(.form-group) select.inputError,
+:global(.form-group) textarea.inputError {
+  border: 1px solid #e74c3c;
+}
+
+/* Cuando el campo con error está enfocado */
+:global(.form-group) input.inputError:focus,
+:global(.form-group) select.inputError:focus,
+:global(.form-group) textarea.inputError:focus {
+  border-color: #c0392b;
+  outline: none;
+  box-shadow: 0 0 0 2px rgba(231, 76, 60, 0.2);
+}
+
+.errorMessage {
+  color: #e74c3c;
+  font-size: 0.875rem;
+  margin-top: 0.25rem;
+  margin-bottom: 0;
+}
