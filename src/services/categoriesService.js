@@ -1,6 +1,7 @@
 import { createAsyncThunk } from "@reduxjs/toolkit";
 
-const API_URL = "http://localhost:3001/categories"
+//const API_URL = "http://localhost:3001/categories"
+const API_URL = "https://api-movie-app-react.onrender.com/categories"
 
 export const fetchCategories = createAsyncThunk(
   "categories/fetchCategories",
